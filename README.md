@@ -22,7 +22,7 @@ Here are the key features of **MyKost**, along with interface previews:
 
 ### 🏘️ Kost Data
 
-![Kost Data](uploads/Overview/datakost.png)
+![Kost Data](uploads/Overview/datakost.jpeg)
 *Information about each kost unit including Kost Name, Room Number, Price, and Status.*
 
 ---
