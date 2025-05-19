@@ -8,28 +8,28 @@ Here are the key features of **MyKost**, along with interface previews:
 
 ### 🔐 Login
 
-![Login](images/login.png)
+![Login](uploads/Overview/login.png)
 *Login page to access the kost management system.*
 
 ---
 
 ### 📊 Dashboard
 
-![Dashboard](Overview/dashboard.png)
+![Dashboard](uploads/Overview/dashboard.jpeg)
 *Overview of Available Rooms, Total Tenants, Overdue Payments, Unpaid, Paid, and Total Income for the month of May 2025.*
 
 ---
 
 ### 🏘️ Kost Data
 
-![Kost Data](Overview/datakost.png)
+![Kost Data](uploads/Overview/datakost.png)
 *Information about each kost unit including Kost Name, Room Number, Price, and Status.*
 
 ---
 
 ### 👥 Room & Tenant Data
 
-![Tenant Data](Overview/datakamar.png)
+![Tenant Data](uploads/Overview/datakamar.png)
 *Details for each tenant: Photo, Number of Occupants, Name, Phone Number, Room Number, Check-in Date, and Payment Status.*
 
 
