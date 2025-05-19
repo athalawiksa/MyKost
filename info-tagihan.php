@@ -301,8 +301,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">520551111323</span>
-                            <button class="copy-btn" onclick="copyToClipboard('520551111323')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -318,8 +318,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">14405283707</span>
-                            <button class="copy-btn" onclick="copyToClipboard('14405283707')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -335,8 +335,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">520550615221</span>
-                            <button class="copy-btn" onclick="copyToClipboard('520550615221')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -352,8 +352,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">520551467192</span>
-                            <button class="copy-btn" onclick="copyToClipboard('520551467192')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -369,8 +369,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">56600369633</span>
-                            <button class="copy-btn" onclick="copyToClipboard('56600369633')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -395,8 +395,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">0201440612</span>
-                            <button class="copy-btn" onclick="copyToClipboard('0201440612')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -421,8 +421,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">141528109412</span>
-                            <button class="copy-btn" onclick="copyToClipboard('141528109412')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -438,8 +438,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">142528400958</span>
-                            <button class="copy-btn" onclick="copyToClipboard('142528400958')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -464,8 +464,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">athalanew123</span>
-                            <button class="copy-btn" onclick="copyToClipboard('athalanew123')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -481,8 +481,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">athalanew123</span>
-                            <button class="copy-btn" onclick="copyToClipboard('athalanew123')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -498,8 +498,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">griyatara123</span>
-                            <button class="copy-btn" onclick="copyToClipboard('griyatara123')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -515,8 +515,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">griyatara123</span>
-                            <button class="copy-btn" onclick="copyToClipboard('griyatara123')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -532,8 +532,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">griyatara123</span>
-                            <button class="copy-btn" onclick="copyToClipboard('griyatara123')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -549,8 +549,8 @@ require 'cookie.php';
                             </div>
                         </div>
                         <div class="d-flex align-items-center">
-                            <span class="bill-number">221498pav</span>
-                            <button class="copy-btn" onclick="copyToClipboard('221498pav')" title="Salin ID">
+                            <span class="bill-number"></span>
+                            <button class="copy-btn" onclick="copyToClipboard('')" title="Salin ID">
                                 <i class="bi bi-clipboard"></i>
                             </button>
                         </div>
@@ -567,12 +567,12 @@ require 'cookie.php';
                 <div class="address-card">
                     <h3 class="address-title">ATHALA KOST</h3>
                     <div class="d-flex align-items-center">
-                        <p class="address-text mb-0">Jl. Krisna, RT 02 RW 12, Pucangan, Kartosuro, Sukoharjo, 57161</p>
-                        <button class="copy-btn" onclick="copyToClipboard('Jl. Krisna, RT 02 RW 12, Pucangan, Kartosuro, Sukoharjo, 57161')" title="Salin Alamat">
+                        <p class="address-text mb-0">Jl. Krisna, RT 02 RW 12</p>
+                        <button class="copy-btn" onclick="copyToClipboard('Jl. Krisna, RT 02 RW 12')" title="Salin Alamat">
                             <i class="bi bi-clipboard"></i>
                         </button>
                     </div>
-                    <a href="https://maps.app.goo.gl/23Nxr7ztBhKLbZTy6" target="_blank" class="map-link">
+                    <a href="" target="_blank" class="map-link">
                         <i class="bi bi-map"></i> Lihat di Google Maps
                     </a>
                 </div>
@@ -580,12 +580,12 @@ require 'cookie.php';
                 <div class="address-card">
                     <h3 class="address-title">GRIYA TARA 1</h3>
                     <div class="d-flex align-items-center">
-                        <p class="address-text mb-0">Singopuran, RT 04 RW 1, Kartosuro, Sukoharjo, 57164</p>
-                        <button class="copy-btn" onclick="copyToClipboard('Singopuran, RT 04 RW 1, Kartosuro, Sukoharjo, 57164')" title="Salin Alamat">
+                        <p class="address-text mb-0">Singopuran, RT 04 RW 1</p>
+                        <button class="copy-btn" onclick="copyToClipboard('Singopuran, RT 04 RW 1')" title="Salin Alamat">
                             <i class="bi bi-clipboard"></i>
                         </button>
                     </div>
-                    <a href="https://maps.app.goo.gl/qGup9pd4nNVPrQms6" target="_blank" class="map-link">
+                    <a href="" target="_blank" class="map-link">
                         <i class="bi bi-map"></i> Lihat di Google Maps
                     </a>
                 </div>
@@ -593,12 +593,12 @@ require 'cookie.php';
                 <div class="address-card">
                     <h3 class="address-title">GRIYA TARA 2</h3>
                     <div class="d-flex align-items-center">
-                        <p class="address-text mb-0">Jl. Wiroto, Gg III, RT 02 RW 01, Pucangan, Kartosuro, Sukoharjo, 57168</p>
-                        <button class="copy-btn" onclick="copyToClipboard('Jl. Wiroto, Gg III, RT 02 RW 01, Pucangan, Kartosuro, Sukoharjo, 57168')" title="Salin Alamat">
+                        <p class="address-text mb-0">Jl. Wiroto, Gg III</p>
+                        <button class="copy-btn" onclick="copyToClipboard('Jl. Wiroto, Gg III')" title="Salin Alamat">
                             <i class="bi bi-clipboard"></i>
                         </button>
                     </div>
-                    <a href="https://maps.google.com/maps?q=-7.5546444%2C110.7358553&z=17&hl=id" target="_blank" class="map-link">
+                    <a href="" target="_blank" class="map-link">
                         <i class="bi bi-map"></i> Lihat di Google Maps
                     </a>
                 </div>
